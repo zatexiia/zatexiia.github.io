@@ -1,10 +1,11 @@
+Maya
+Unreal Engine
 Blender
-3ds Max
 Unity
 Zbrush
+3ds Max
 Adobe Photoshop
-Topogun
+Adobe After effect
 Substance 3d Painter
 Marvelous Designer
-Maya
 Marmoset Toolbag
