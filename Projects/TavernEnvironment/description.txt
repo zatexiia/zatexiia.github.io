@@ -2,7 +2,7 @@ Tavern Environment UE4
 ---
 This tavern project is my personal project built in Unreal. I created all the assets by myself using Maya, Substance and Zbrush. I used some decals from Quixel.
 This project's objectives was to create an entire environment using the knowledge I learned from this past year.
-Thank you to J-Line who accepted to use his amazing concept. yes
+Thank you to J-Line who accepted to use his amazing concept.
 ---
 Maya,Zbrush,Substance 3D Painter,Substance 3D Designer,Unreal Engine
 ---
