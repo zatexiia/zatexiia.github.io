@@ -1,0 +1,25 @@
+https://raw.githubusercontent.com/zatexiia/zatexiia.github.io/main/Resources/Projects/Tavern_Environment/Tavern_Environment_01.jpg
+Descriptions go under each image like this! png/jpeg/jpg/gif supported.
+
+https://raw.githubusercontent.com/zatexiia/zatexiia.github.io/main/Resources/Projects/Tavern_Environment/Tavern_Environment_02.jpg
+Description for example2.jpg.
+
+https://raw.githubusercontent.com/zatexiia/zatexiia.github.io/main/Resources/Projects/Tavern_Environment/Tavern_Environment_03.jpg
+These aren't real images but need replacing with your own.
+
+https://raw.githubusercontent.com/zatexiia/zatexiia.github.io/main/Resources/Projects/Tavern_Environment/Tavern_Environment_04.jpg
+MP4's are also supported but like with images should be hosted somewhere like dropbox.
+
+https://raw.githubusercontent.com/zatexiia/zatexiia.github.io/main/Resources/Projects/Tavern_Environment/Tavern_Environment_05.jpg
+
+https://raw.githubusercontent.com/zatexiia/zatexiia.github.io/main/Resources/Projects/Tavern_Environment/Tavern_Environment_06.jpg
+
+https://raw.githubusercontent.com/zatexiia/zatexiia.github.io/main/Resources/Projects/Tavern_Environment/Tavern_Environment_07.jpg
+
+https://raw.githubusercontent.com/zatexiia/zatexiia.github.io/main/Resources/Projects/Tavern_Environment/Tavern_Environment_08.jpg
+
+https://raw.githubusercontent.com/zatexiia/zatexiia.github.io/main/Resources/Projects/Tavern_Environment/Tavern_Environment_09.jpg
+
+https://raw.githubusercontent.com/zatexiia/zatexiia.github.io/main/Resources/Projects/Tavern_Environment/Tavern_Environment_10.jpg
+
+https://raw.githubusercontent.com/zatexiia/zatexiia.github.io/main/Resources/Projects/Tavern_Environment/Tavern_Environment_11.jpg // https://raw.githubusercontent.com/zatexiia/zatexiia.github.io/main/Resources/Projects/Tavern_Environment/Tavern_Environment_12.jpg

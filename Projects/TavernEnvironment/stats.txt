@@ -1,0 +1,11 @@
+Triangles: Unknow
+
+Materials: A lot
+
+Texture Size: 2048x2048 (various texture sizes but most were 2048)
+
+Workflow: PBR Rough/Met
+
+Target Engine: Unreal Engine
+
+Collaborators: 1
