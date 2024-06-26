@@ -4,6 +4,7 @@ Sculpting
 Texturing
 High Poly Modelling
 UV-Unwrapping
+Lighting
 Retopology
 Tileable Materials
 Trim Sheets

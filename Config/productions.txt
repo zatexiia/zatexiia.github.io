@@ -2,26 +2,26 @@
 # When you add one then productions.js will automatically add it after saving
 # Format: Title, Company, Time, Thumbnail URL, Description 
 ---
-Role
-Company
-Date (i.e 2020-present or 2016-2023)
+Senior 3D Environment Artist
+Normal Studio
+March 2022 - Present
 https://productionimage.jpg 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc sodales justo vitae lacinia ornare. Pellentesque commodo mollis velit, finibus malesuada elit bibendum ut. Mauris sit amet nisi ante. Ut commodo auctor lorem id elementum. Ut at arcu congue, dictum est a, egestas neque. Aenean ipsum ipsum, elementum sit amet vehicula eu, congue sit amet risus. Aliquam a sem ac eros feugiat blandit vestibulum non diam.
+Creation of the Unreal Engine department within Normal Studio, development of the creative processes for multimedia requests. Employee training on Unreal Engine to develop the real-time pipeline. Creation of environments for entertainment purposes (museum, automotive events, concerts, video mapping projections). Creation of real-time environments in Unreal Engine.Creation of Digital Twin to visualize future shows.
 ---
-Role
-Company
-Date (i.e 2020-present or 2016-2023)
+3D Environment Artist
+Digital Dimension Entertainment Group ( Saturday Animation / Meduzarts Animation )
+August 2020 - October 2022
 https://productionimage.jpg 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc sodales justo vitae lacinia ornare. Pellentesque commodo mollis velit, finibus malesuada elit bibendum ut. Mauris sit amet nisi ante. Ut commodo auctor lorem id elementum. Ut at arcu congue, dictum est a, egestas neque. Aenean ipsum ipsum, elementum sit amet vehicula eu, congue sit amet risus. Aliquam a sem ac eros feugiat blandit vestibulum non diam.
+Modeling assets for multiple TV shows using Unreal Engine. SubD assets modeling, texturing and implementation into various environments.
 ---
-Role
-Company
-Date (i.e 2020-present or 2016-2023)
+Props / Environment Artist 
+Studio Nyx
+March 2018 - October 2019
 https://productionimage.jpg 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc sodales justo vitae lacinia ornare. Pellentesque commodo mollis velit, finibus malesuada elit bibendum ut. Mauris sit amet nisi ante. Ut commodo auctor lorem id elementum. Ut at arcu congue, dictum est a, egestas neque. Aenean ipsum ipsum, elementum sit amet vehicula eu, congue sit amet risus. Aliquam a sem ac eros feugiat blandit vestibulum non diam.
+High | Low poly modeling, shader creation in Unity, and PBR texturing for buildings, environment, and props. Development of the production pipeline, Python tool development, optimization, and implementation in the real-time engine. Management of a team of 5 3D artists for the creation of multiple virtual reality applications.
 ---
-Role
-Company
-Date (i.e 2020-present or 2016-2023)
+3D Generalist
+Studio Nyx
+April 2016 - July 2016
 https://productionimage.jpg 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc sodales justo vitae lacinia ornare. Pellentesque commodo mollis velit, finibus malesuada elit bibendum ut. Mauris sit amet nisi ante. Ut commodo auctor lorem id elementum. Ut at arcu congue, dictum est a, egestas neque. Aenean ipsum ipsum, elementum sit amet vehicula eu, congue sit amet risus. Aliquam a sem ac eros feugiat blandit vestibulum non diam.
+High | Low poly modeling, and PBR texturing for buildings, environment, and props for virtual reality constraints. Development of Python tools for props optimization, and implementation into Unity Game Engine.

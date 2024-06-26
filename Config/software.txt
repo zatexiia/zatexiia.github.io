@@ -4,6 +4,8 @@ Blender
 Unity
 Zbrush
 3ds Max
+Gaea
+World Creator
 Adobe Photoshop
 Adobe After effect
 Substance 3d Painter
