@@ -1,6 +1,6 @@
-Triangles: Unknow
+Triangles: Unknow (To much to count)
 
-Materials: A lot
+Materials: A lot (didn't count them)
 
 Texture Size: 2048x2048 (various texture sizes but most were 2048)
 
