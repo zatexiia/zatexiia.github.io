@@ -11,7 +11,7 @@ Creation of the Unreal Engine department within Normal Studio, development of th
 3D Environment Artist
 Digital Dimension Entertainment Group ( Saturday Animation / Meduzarts Animation )
 August 2020 - October 2022
-https://productionimage.jpg 
+https://raw.githubusercontent.com/zatexiia/zatexiia.github.io/main/Resources/favicon/DigitalDimension.png
 Modeling assets for multiple TV shows using Unreal Engine. SubD assets modeling, texturing and implementation into various environments.
 ---
 Props / Environment Artist 
