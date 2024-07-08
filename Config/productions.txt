@@ -5,7 +5,7 @@
 Senior 3D Environment Artist
 Normal Studio
 March 2022 - Present
-https://productionimage.jpg 
+https://raw.githubusercontent.com/zatexiia/zatexiia.github.io/main/Resources/favicon/NormalStudio.png
 Creation of the Unreal Engine department within Normal Studio, development of the creative processes for multimedia requests. Employee training on Unreal Engine to develop the real-time pipeline. Creation of environments for entertainment purposes (museum, automotive events, concerts, video mapping projections). Creation of real-time environments in Unreal Engine.Creation of Digital Twin to visualize future shows.
 ---
 3D Environment Artist
